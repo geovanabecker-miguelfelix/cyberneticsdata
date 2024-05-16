@@ -1,0 +1,76 @@
+Sobre
+O que é segurança da informação?
+//link\\ https://www.siteware.com.br/blog/seguranca/seguranca-da-informacao/
+
+No contexto corporativo, podemos definir o que é segurança da informação como um conjunto de ações e estratégias que buscam proteger os dados produzidos e armazenados em uma empresa.
+
+Para isso, são implementadas boas práticas e políticas, chamadas de compliance, visando controlar os riscos e evitar qualquer tipo de ameaça à integridade, à confidencialidade, à disponibilidade e à autenticidade desses dados.
+
+Ou seja, a segurança da informação tem como objetivo blindar os dados de uma empresa contra acessos não autorizados, alterações indesejadas, vazamentos, invasões aos sistemas e perdas de dados e informações sensíveis e valiosas.
+
+Quais são os pilares da segurança da informação?
+A segurança da informação se baseia em 5 pilares fundamentais. Eles funcionam como um guia para orientar as ações que têm como foco garantir a proteção dos dados de uma organização.
+
+1 – Confidencialidade
+O primeiro pilar da segurança da informação se refere à confidencialidade dos dados.
+
+As medidas implementadas devem ser capazes de assegurar que as informações sejam acessadas apenas por pessoas autorizadas.
+
+Geralmente, costuma-se definir níveis e controle de acesso, estabelecendo uma hierarquia para os dados; quanto mais sensíveis, menos pessoas poderão acessá-los.
+
+2 – Integridade
+A integridade trata da preservação dos dados. O objetivo é evitar que eles sejam alterados, danificados ou corrompidos, gerando prejuízos para a empresa.
+
+Geralmente, a integridade dos dados é preservada por meio de backups automáticos, controle nas alterações feitas em um documento, manutenção periódicas de hardwares de armazenamento entre outras ações.
+
+3 – Disponibilidade
+Além do sigilo e da integridade dos dados, eles também devem estar disponíveis para serem acessados quando necessário.
+
+Isso significa que a segurança da informação também deve garantir que usuários autorizados possam acessar esses ativos sempre que quiserem, a qualquer hora e dia.
+
+Isso evita que os processos organizacionais precisem ser interrompidos, gerando atrasos na operação.
+
+4 – Autenticidade
+A autenticidade é um pilar da segurança da informação que prevê que os dados são legítimos, verdadeiros, sem intervenções de pessoas não autorizadas que se passam por outras que têm autorização.
+
+Deve-se assegurar que não haja falsificação de registros e que todas as ações dos usuários sejam devidamente rastreadas.
+
+5 – Legalidade
+Todos os procedimentos voltados à segurança da informação precisam estar em conformidade com a lei.
+
+Os dados protegidos devem atender a Lei Geral de Proteção de Dados Pessoais, garantindo que a empresa atue dentro do que prevê a legislação vigente.
+
+//link novo\\ https://fia.com.br/blog/seguranca-da-informacao/#:~:text=Estabelecer%20processos%20para%20proteger%20a,e%20a%20manuten%C3%A7%C3%A3o%20de%20sistemas
+ 
+O que faz um Profissional da segurança da informação?
+Como xerifes da era digital, eles monitoram riscos e projetam respostas a eles, no intuito de evitar a apropriação criminosa de dados sigilosos para uso em fraudes e golpes diversos.
+
+São prevencionistas quando suas soluções se mostram eficazes para resguardar a integridade dos dados.
+
+Ao mesmo tempo, agem como “bombeiros” em situações de emergência, buscando reduzir os prejuízos e estancar a exposição indevida do conteúdo com a maior brevidade possível.
+
+Veja algumas das atribuições do profissional de segurança da informação:
+
+Garantir que os recursos estejam disponíveis por meio de mecanismos seguros
+Definir políticas de acesso ao conteúdo protegido
+Estabelecer processos para proteger a integridade dos dados armazenados
+Assegurar a confidencialidade do conteúdo
+Evitar o roubo de informações sigilosas ou o seu vazamento dos dados
+Realizar a implementação e a manutenção de sistemas
+Selecionar e instalar produtos e equipamentos voltados à proteção de informações sigilosas.
+
+
+Como esta o mercado de trabalho?
+https://www.computerweekly.com/br/reportagen/Seguranca-da-informacao-ganha-cada-vez-mais-importancia-no-mercado-de-TI-no-Brasil#:~:text=O%20mercado%20de%20seguran%C3%A7a%20digital,em%20rela%C3%A7%C3%A3o%20ao%20ano%20anterior.
+
+
+Salario mensal de um analista de segurança da informação:
+https://www.educamaisbrasil.com.br/cursos-e-faculdades/seguranca-da-informacao/salario-de-tecnologo-em-seguranca-da-informacao-carreira
+
+Perfil: 
+tecnico: https://awari.com.br/guia-completo-o-que-estudar-para-se-tornar-um-especialista-em-seguranca-da-informacao/?utm_source=blog&utm_campaign=projeto+blog&utm_medium=Guia%20Completo:%20o%20que%20Estudar%20para%20Se%20Tornar%20um%20Especialista%20Em%20Seguran%C3%A7a%20da%20Informa%C3%A7%C3%A3o
+
+Emocional:https://g1.globo.com/tecnologia/noticia/2023/08/18/um-desastre-pelo-lado-emocional-profissionais-de-seguranca-da-informacao-denunciam-casos-de-burnout-e-depressao-na-area.ghtml
+
+Colaborativo:
+https://acervodigital.ufpr.br/handle/1884/48170
